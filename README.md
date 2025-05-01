@@ -32,15 +32,15 @@ I'm Gokul, a passionate Frontend Developer who loves building cool websites and 
 <h2 align="center">💻 GitHub Stats & Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulprasath-r&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=false&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulprasath-r&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=false&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulprasath-r&layout=compact&hide_border=false&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulprasath-r&layout=compact&hide_border=false&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulprasath-r&hide_border=false&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulprasath-r&hide_border=false&theme=dark" />
 </p>
 
 <h2 align="center">💻 My LeetCode Stats 🤓</h2>
