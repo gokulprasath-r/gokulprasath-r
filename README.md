@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gokulprasath-r/gokulprasath-r/main/assets/header.gif" width="500px">
+  <img src="https://raw.githubusercontent.com/gokulprasath-r/gokulprasath-r/refs/heads/main/assets/header.gif?token=GHSAT0AAAAAADGBYUKDZQOPNYMX5HGWH6SE2CW3UMA" width="500px">
 </p>
 
 <h1 align="center">Hey 👋, I'm Gokulprasath</h1>
@@ -59,7 +59,7 @@ I'm Gokul, a passionate Frontend Developer who loves building cool websites and 
 
 <p align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31f6jbwcaxn2bz4b66vv7x3zrliq">
-    <img 
+    <img
       src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31f6jbwcaxn2bz4b66vv7x3zrliq&show_border=1&hide_title=1&hide_playing=0&hide_recents=0&hide_top_tracks=0&limit=1"
       alt="Currently Playing on Spotify"
       width="350"
