@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Gokulprasath</h1>
-<h3 align="center">Systems Engineer | Frontend Developer @TCS</h3>
+<h3 align="center">Systems Engineer | Fullstack Developer @TCS</h3>
 
 <p align="center"><strong>⚡ Write code. Break things. Learn fast.</strong></p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I'm Gokul, a passionate Frontend Developer who loves building cool websites and solving real-world problems. 🚀 Always excited to learn new technologies, currently exploring Node.js, Express.js, and MongoDB. When I'm not coding, you'll find me watching movies or trying out fun coding side-projects. 🎬🔥
+I'm Gokul, a passionate Full Stack Developer who loves building scalable web applications and solving real-world problems. 🚀 Skilled in creating modern frontend experiences and backend systems using technologies like React, Node.js, Express.js, and MongoDB. Always excited to learn new technologies and improve my development skills. When I'm not coding, you'll find me watching movies or working on fun side-projects. 🎬🔥
 </p>
 
 <!-- <p align="center">
@@ -20,14 +20,14 @@ I'm Gokul, a passionate Frontend Developer who loves building cool websites and 
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,typescript,styledcomponents,react,redux,java,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,typescript,styledcomponents,react,redux,java,nextjs,nodejs,express,mongodb,git,github,vscode,eclipse" />
 </p>
 
-<h2 align="center">🌱 Currently Learning</h2>
+<!-- <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb" />
-</p>
+  <img src="https://skillicons.dev/icons?i=" />
+</p> -->
 
 <h2 align="center">💻 GitHub Stats & Streak</h2>
 
